@@ -1,7 +1,7 @@
 - Change Name: (fill me in with a unique ident, my_awesome_change)
 - Start Date: (fill me in with today's date, YYYY-MM-DD)
 - RFC PR: (leave this empty)
-- Rust Issue: (leave this empty)
+- Core-Plans Issue: (leave this empty)
 
 # Summary
 [summary]: #summary
